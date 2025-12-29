@@ -1,0 +1,35 @@
+# Compiled executables
+*.exe
+*.out
+*.o
+*.obj
+
+# VS Code settings 
+.vscode/
+
+# Build directories
+build/
+bin/
+obj/
+
+# MinGW/GCC specific
+*.dll
+*.so
+*.dylib
+*.a
+
+# Debug files
+*.pdb
+*.dSYM/
+
+# Temporary files
+*.tmp
+*.temp
+*~
+*.swp
+*.swo
+
+# OS specific
+.DS_Store
+Thumbs.db
+desktop.ini
